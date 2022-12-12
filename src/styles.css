@@ -1,0 +1,16 @@
+.book-card {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 600px;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 30px;
+  border: 0.5px solid black;
+  border-radius: 25px;
+  justify-content: space-around;
+}
+
+.left,
+.right {
+  width: 45%;
+}
